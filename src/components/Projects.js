@@ -5,6 +5,7 @@ const Projects = () => {
     const projectList = [
         { title: 'Budget Allocation React App', description: 'Project description.', link: 'https://react-budget-app-alpha.vercel.app/' },
         { title: 'Shopping Cart React App', description: 'Project description.', link: 'https://shopping-app-six-olive.vercel.app/' },
+        { title: 'Kirsti Author Site', description: 'Project description.', link: 'https://kirsti-portfolio.vercel.app/' },
         // Add more projects as needed
     ];
 
