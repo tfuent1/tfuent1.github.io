@@ -53,6 +53,10 @@ section {
   border-radius: .5rem;
 }
 
+#project h3 {
+  display: inline-block;
+}
+
 footer {
   background-color: #526f49;
   color: #eeecca;
