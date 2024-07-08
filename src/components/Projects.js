@@ -4,7 +4,7 @@ import Project from './Project';
 const Projects = () => {
     const projectList = [
         { title: 'Budget Allocation React App', description: 'Project description.', link: 'https://react-budget-app-alpha.vercel.app/' },
-        { title: 'Project Title 2', description: 'Project description.', link: 'https://react-budget-app-alpha.vercel.app/' },
+        { title: 'Shopping Cart React App', description: 'Project description.', link: 'https://shopping-app-six-olive.vercel.app/' },
         // Add more projects as needed
     ];
 
