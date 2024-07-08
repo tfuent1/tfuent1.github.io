@@ -3,8 +3,8 @@ import Project from './Project';
 
 const Projects = () => {
     const projectList = [
-        { title: 'Project Title 1', description: 'Project description.' },
-        { title: 'Project Title 2', description: 'Project description.' },
+        { title: 'Budget Allocation React App', description: 'Project description.', link: 'https://react-budget-app-alpha.vercel.app/' },
+        { title: 'Project Title 2', description: 'Project description.', link: 'https://react-budget-app-alpha.vercel.app/' },
         // Add more projects as needed
     ];
 
@@ -12,7 +12,7 @@ const Projects = () => {
         <section id="projects">
             <h2>Projects</h2>
             {projectList.map((project, index) => (
-                <Project key={index} title={project.title} description={project.description} />
+                <Project key={index} title={project.title} description={project.description} link={project.link} />
             ))}
         </section>
     );
