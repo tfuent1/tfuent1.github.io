@@ -57,6 +57,12 @@ section {
   display: inline-block;
 }
 
+img {
+  width: 150;
+  height: 150;
+  border-radius: 75;
+}
+
 footer {
   background-color: #526f49;
   color: #eeecca;
