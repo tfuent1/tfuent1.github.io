@@ -57,10 +57,15 @@ section {
   display: inline-block;
 }
 
+#AboutDiv {
+  flex: auto;
+  flex-direction: column;
+}
+
 img {
-  width: 150;
-  height: 150;
-  border-radius: 75;
+  width: 150px;
+  height: 150px;
+  border-radius: 75%;
 }
 
 footer {
