@@ -12,12 +12,14 @@ const App = () => {
             <Header />
             <div id='AboutDiv'>
                 <About />
-                <img src={photo} alt='Photo' />
+                <div id='image'>
+                    <img src={photo} alt='Photo' />
+                </div>
             </div>
             <Projects />
             <Contact />
             <footer>
-                <p>&copy; 2024 Thomas Fuentes</p>
+                <p id='copyright'>&copy; 2024 Thomas Fuentes</p>
             </footer>
         </div>
     );
