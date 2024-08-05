@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.79508f66.css",
-    "main.js": "/static/js/main.6f5be838.js",
+    "main.css": "/static/css/main.afc740de.css",
+    "main.js": "/static/js/main.ac006c9a.js",
     "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
+    "static/media/developingFrontEndAppsWithReact.png": "/static/media/developingFrontEndAppsWithReact.601f76f29c51f020ca66.png",
+    "static/media/pythonBasics.png": "/static/media/pythonBasics.5759663e3bb332ce9b2e.png",
+    "static/media/introductionToWebDevelopmentWithHtmlCssJavaScript.png": "/static/media/introductionToWebDevelopmentWithHtmlCssJavaScript.3611489469b51b42ed42.png",
+    "static/media/gettingStartedWithGitAndGitHub.png": "/static/media/gettingStartedWithGitAndGitHub.aa6254e61c4bfcbee76b.png",
+    "static/media/introductionToCloudComputing.png": "/static/media/introductionToCloudComputing.29ebb1baeb53a0e513df.png",
     "static/media/Engagement1.jpg": "/static/media/Engagement1.a8433a0b5d12a8245500.jpg",
     "index.html": "/index.html",
-    "main.79508f66.css.map": "/static/css/main.79508f66.css.map",
-    "main.6f5be838.js.map": "/static/js/main.6f5be838.js.map",
+    "main.afc740de.css.map": "/static/css/main.afc740de.css.map",
+    "main.ac006c9a.js.map": "/static/js/main.ac006c9a.js.map",
     "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79508f66.css",
-    "static/js/main.6f5be838.js"
+    "static/css/main.afc740de.css",
+    "static/js/main.ac006c9a.js"
   ]
 }
