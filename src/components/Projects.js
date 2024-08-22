@@ -1,4 +1,5 @@
 import React from 'react';
+import Divider from '@mui/material/Divider';
 import Project from './Project';
 
 const Projects = () => {
@@ -13,10 +14,12 @@ const Projects = () => {
 
     return (
         <section id="projects">
+            <Divider />
             <h2>Projects</h2>
             {projectList.map((project, index) => (
                 <Project key={index} title={project.title} description={project.description} link={project.link} />
             ))}
+            <Divider />
         </section>
     );
 };

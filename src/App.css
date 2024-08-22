@@ -92,6 +92,7 @@ p {
   display: flexbox;
   flex-direction: column;
   text-align: center;
+  margin: 1rem;
 }
 
 #certificates {
@@ -100,7 +101,7 @@ p {
   flex-wrap: wrap;
 }
 
-#cert1 {
+#cert1, #cert2, #cert3, #cert4, #cert5 {
   display: flex;
   flex: 1;
   object-fit: contain;
@@ -108,36 +109,28 @@ p {
   padding: 2rem;
 }
 
-#cert2 {
+#badges {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#badge1, #badge2, #badge3, #badge4, #badge5, #badge6, #badge7, #badge8, #badge9, #badge10 {
   display: flex;
   flex: 1;
   object-fit: contain;
-  max-height: 300px;
+  max-height: 150px;
   padding: 2rem;
 }
 
-#cert3 {
+#emailDiv, #githubDiv, #linkedInDiv {
   display: flex;
-  flex: 1;
-  object-fit: contain;
-  max-height: 300px;
-  padding: 2rem;
+  padding: .5rem
 }
 
-#cert4 {
-  display: flex;
-  flex: 1;
-  object-fit: contain;
-  max-height: 300px;
-  padding: 2rem;
-}
-
-#cert5 {
-  display: flex;
-  flex: 1;
-  object-fit: contain;
-  max-height: 300px;
-  padding: 2rem;
+#emailDiv a, #githubDiv a, #linkedInDiv a {
+  padding-left: .5rem;
+  
 }
 
 footer {
