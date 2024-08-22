@@ -1,21 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.afc740de.css",
-    "main.js": "/static/js/main.ac006c9a.js",
-    "static/js/453.aac68abc.chunk.js": "/static/js/453.aac68abc.chunk.js",
+    "main.css": "/static/css/main.29fc57ac.css",
+    "main.js": "/static/js/main.1a17128f.js",
+    "static/js/453.2ddb282f.chunk.js": "/static/js/453.2ddb282f.chunk.js",
     "static/media/developingFrontEndAppsWithReact.png": "/static/media/developingFrontEndAppsWithReact.601f76f29c51f020ca66.png",
     "static/media/pythonBasics.png": "/static/media/pythonBasics.5759663e3bb332ce9b2e.png",
     "static/media/introductionToWebDevelopmentWithHtmlCssJavaScript.png": "/static/media/introductionToWebDevelopmentWithHtmlCssJavaScript.3611489469b51b42ed42.png",
     "static/media/gettingStartedWithGitAndGitHub.png": "/static/media/gettingStartedWithGitAndGitHub.aa6254e61c4bfcbee76b.png",
     "static/media/introductionToCloudComputing.png": "/static/media/introductionToCloudComputing.29ebb1baeb53a0e513df.png",
     "static/media/Engagement1.jpg": "/static/media/Engagement1.a8433a0b5d12a8245500.jpg",
+    "static/media/worldWideWeb.png": "/static/media/worldWideWeb.8f99b24db1ce42490911.png",
+    "static/media/7DayStreak.png": "/static/media/7DayStreak.79d57b5f1d8541ad6e5e.png",
+    "static/media/metasploitable.png": "/static/media/metasploitable.b1f291f1ea13dbfd1c3b.png",
+    "static/media/networkingNerd.png": "/static/media/networkingNerd.9202500932c34e4b28ea.png",
+    "static/media/firstFour.png": "/static/media/firstFour.63e8ad8ac7a7b8b87370.png",
+    "static/media/pentestingPriciples.png": "/static/media/pentestingPriciples.ed72bf0fa102212e6aa5.png",
+    "static/media/webbed.png": "/static/media/webbed.1883c48525ced9690ad0.png",
+    "static/media/catLinuxTxt.png": "/static/media/catLinuxTxt.8d71c49ad46c24068711.png",
+    "static/media/introToWebHacking.png": "/static/media/introToWebHacking.bf711e73fe3f96d04820.png",
+    "static/media/burped.png": "/static/media/burped.401757394c17c85c0fe8.png",
     "index.html": "/index.html",
-    "main.afc740de.css.map": "/static/css/main.afc740de.css.map",
-    "main.ac006c9a.js.map": "/static/js/main.ac006c9a.js.map",
-    "453.aac68abc.chunk.js.map": "/static/js/453.aac68abc.chunk.js.map"
+    "main.29fc57ac.css.map": "/static/css/main.29fc57ac.css.map",
+    "main.1a17128f.js.map": "/static/js/main.1a17128f.js.map",
+    "453.2ddb282f.chunk.js.map": "/static/js/453.2ddb282f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afc740de.css",
-    "static/js/main.ac006c9a.js"
+    "static/css/main.29fc57ac.css",
+    "static/js/main.1a17128f.js"
   ]
 }
