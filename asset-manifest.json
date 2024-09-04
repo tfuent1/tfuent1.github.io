@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29fc57ac.css",
-    "main.js": "/static/js/main.5de874f6.js",
+    "main.js": "/static/js/main.8522aa21.js",
     "static/js/453.2ddb282f.chunk.js": "/static/js/453.2ddb282f.chunk.js",
     "static/media/developingFrontEndAppsWithReact.png": "/static/media/developingFrontEndAppsWithReact.601f76f29c51f020ca66.png",
     "static/media/pythonBasics.png": "/static/media/pythonBasics.5759663e3bb332ce9b2e.png",
@@ -9,6 +9,8 @@
     "static/media/gettingStartedWithGitAndGitHub.png": "/static/media/gettingStartedWithGitAndGitHub.aa6254e61c4bfcbee76b.png",
     "static/media/introductionToCloudComputing.png": "/static/media/introductionToCloudComputing.29ebb1baeb53a0e513df.png",
     "static/media/Engagement1.jpg": "/static/media/Engagement1.a8433a0b5d12a8245500.jpg",
+    "static/media/jrPenetrationTesterCertTHM.png": "/static/media/jrPenetrationTesterCertTHM.95a0f5dcd13c6484fc56.png",
+    "static/media/preSecurityCertTHM.png": "/static/media/preSecurityCertTHM.a83d29638a54f1de4607.png",
     "static/media/worldWideWeb.png": "/static/media/worldWideWeb.8f99b24db1ce42490911.png",
     "static/media/7DayStreak.png": "/static/media/7DayStreak.79d57b5f1d8541ad6e5e.png",
     "static/media/metasploitable.png": "/static/media/metasploitable.b1f291f1ea13dbfd1c3b.png",
@@ -21,11 +23,11 @@
     "static/media/burped.png": "/static/media/burped.401757394c17c85c0fe8.png",
     "index.html": "/index.html",
     "main.29fc57ac.css.map": "/static/css/main.29fc57ac.css.map",
-    "main.5de874f6.js.map": "/static/js/main.5de874f6.js.map",
+    "main.8522aa21.js.map": "/static/js/main.8522aa21.js.map",
     "453.2ddb282f.chunk.js.map": "/static/js/453.2ddb282f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29fc57ac.css",
-    "static/js/main.5de874f6.js"
+    "static/js/main.8522aa21.js"
   ]
 }
