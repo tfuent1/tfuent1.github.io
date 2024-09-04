@@ -21,7 +21,7 @@ const Achievements = () => {
         <section id="achievements">
             <h2>Achievements</h2>
             <div id='thm-badge'>
-                <img src="https://tryhackme-badges.s3.amazonaws.com/tfuent1.png?0" alt="TryHackMe" />
+                <img src="https://tryhackme-badges.s3.amazonaws.com/tfuent1.png" alt="TryHackMe">
             </div>
             <Divider />
             <div id='certificates'>
