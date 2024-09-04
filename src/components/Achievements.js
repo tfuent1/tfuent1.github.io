@@ -5,6 +5,8 @@ import cert2 from '../assets/pythonBasics.png'
 import cert3 from '../assets/introductionToWebDevelopmentWithHtmlCssJavaScript.png'
 import cert4 from '../assets/gettingStartedWithGitAndGitHub.png'
 import cert5 from '../assets/introductionToCloudComputing.png'
+import cert6 from '../assets/preSecurityCertTHM.png'
+import cert7 from '../assets/jrPenetrationTesterCertTHM.png'
 import badge1 from '../assets/burped.png'
 import badge2 from '../assets/catLinuxTxt.png'
 import badge3 from '../assets/metasploitable.png'
@@ -21,7 +23,7 @@ const Achievements = () => {
         <section id="achievements">
             <h2>Achievements</h2>
             <div id='thm-badge'>
-                <img src="https://tryhackme-badges.s3.amazonaws.com/tfuent1.png" alt="TryHackMe">
+                <img src="https://tryhackme-badges.s3.amazonaws.com/tfuent1.png" alt="TryHackMe" />
             </div>
             <Divider />
             <div id='certificates'>
@@ -30,6 +32,8 @@ const Achievements = () => {
                 <img id='cert3' src={cert3} alt="Introduction to Web Development with HTML, CSS, JavaScript" />
                 <img id='cert4' src={cert4} alt='Getting Started with Git and GitHub' />
                 <img id='cert5' src={cert5} alt='Introduction to Cloud Computing' />
+                <img id='cert6' src={cert6} alt='Pre Security' />
+                <img id='cert7' src={cert7} alt='Jr Penetration Tester' />
             </div>
             <Divider />
             <div id='badges'>
