@@ -101,7 +101,7 @@ p {
   flex-wrap: wrap;
 }
 
-#cert1, #cert2, #cert3, #cert4, #cert5 {
+#cert1, #cert2, #cert3, #cert4, #cert5, #cert6, #cert7 {
   display: flex;
   flex: 1;
   object-fit: contain;
